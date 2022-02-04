@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "targetDot",
+  "name": "Target Dot - Crosshair Retexture",
+  "authors": ["RogueRaidenTV"],
+  "description": "Retextures the Crosshair to a small dot.",
+  "website": "https://mods.vintagestory.at/targetdot",
+  "side": "Client",
+  "version": "1.1.0",
+  "dependencies": {
+    "game": "*"
+  }
+}
